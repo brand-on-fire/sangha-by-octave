@@ -1,5 +1,2 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: http://sangha-10-21-18.local/wp-sitemap.xml
+Disallow: /
