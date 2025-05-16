@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>éŸ³æ˜±æ°´ä¸­å¤©</title>
+	<atom:link href="http://sangha-10-21-18.local/feed/?lang=zh-hans" rel="self" type="application/rss+xml" />
+	<link>http://sangha-10-21-18.local/?lang=zh-hans</link>
+	<description>æ”¯æŒä½ æ­£å¿µç”Ÿæ´»åŠæˆé•¿çš„å¹¸ç¦ç¤¾åŒº</description>
+	<lastBuildDate>Mon, 21 May 2018 12:26:39 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+</channel>
+</rss>
